@@ -111,7 +111,7 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  background: url("Images/background.png") no-repeat;
+  background: linear-gradient(to bottom, rgb(175,214,255), rgb(245,255,255)) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
